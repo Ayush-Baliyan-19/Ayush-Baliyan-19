@@ -1,5 +1,6 @@
 <h1 align="center">Hi there👋, I Am <a href="https://ayush-baliyan-19.github.io/Portfolio">Ayush</a>!</h1>
 <h3 align="center">A Developer from India</h3>
+<p align="center">The strong don't win. The winners are the strong ones.</p>
 
 ```js
 const name = 'Ayush';
