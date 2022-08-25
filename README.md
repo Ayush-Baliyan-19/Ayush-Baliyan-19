@@ -15,3 +15,17 @@ while(dev.isCoding())
   dev.drinkWater();
 }
 ```
+<br>
+<h6 align="center" color="white" width="40%">Second-year CSE student, future SDE. My passion for writing codes and diving deep into the computer world brought me to the University School of Information, Communication and Technology, where I am currently getting the most experience of being a web developer and a graphic designer. Last semester I completed the MERN Stack Development, which let me get exposure to being a full stack developer. Currently exploring the opensource community and unity game development</h6>
+<hr>
+<h3>My Stats On GitHub!</h3>
+<p align="center">
+<img width="48%"
+   src="https://github-readme-stats.vercel.app/api?username=ayush-baliyan-19&show_icons=true&theme=tokyonight" 
+/>
+</p>
+<p align="center" >
+  <a href="https://www.linkedin.com/in/ayush-baliyan"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://github.com/Ayush-Baliyan-19"><img src="https://img.shields.io/badge/Github-white?logo=github&logoColor=black&style=for-the-badge" /></a>
+  <a href="https://www.instagram.com/ayush__baliyan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
