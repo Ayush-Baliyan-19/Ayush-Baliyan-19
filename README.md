@@ -24,6 +24,8 @@ while(dev.isCoding())
    src="https://github-readme-stats.vercel.app/api?username=ayush-baliyan-19&show_icons=true&theme=tokyonight" 
 />
 </p>
+<hr>
+<h3>Contact Me!</h3>
 <p align="center" >
   <a href="https://www.linkedin.com/in/ayush-baliyan"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/Ayush-Baliyan-19"><img src="https://img.shields.io/badge/Github-white?logo=github&logoColor=black&style=for-the-badge" /></a>
