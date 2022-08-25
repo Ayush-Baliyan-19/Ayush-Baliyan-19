@@ -17,12 +17,12 @@ while(dev.isCoding())
 ```
 <br>
 <h6 align="center" color="white" width="40%">Second-year CSE student, future SDE. My passion for writing codes and diving deep into the computer world brought me to the University School of Information, Communication and Technology, where I am currently getting the most experience of being a web developer and a graphic designer. Last semester I completed the MERN Stack Development, which let me get exposure to being a full stack developer. Currently exploring the opensource community and unity game development</h6>
-<hr>
+<!-- <hr>
 <h3>My Stats On GitHub!</h3>
 <p align="center">
 <img width="48%"
    src="https://github-readme-stats.vercel.app/api?username=ayush-baliyan-19&show_icons=true&theme=tokyonight" 
-/>
+/> -->
 </p>
 <hr>
 <h3>Contact Me!</h3>
