@@ -1,9 +1,7 @@
-[![Banner](https://lh3.googleusercontent.com/fife/AAbDypCr7mLyOEDn_QE69KBVaRre-YBepmGJi36jHLoNiomXEcFpqcoJ87iaEk3dMk1rM0PfoZ-qTQEX5FG6dnD8Ap9Lt9n8dS-d0fuDL73dCSWddvLkzGsZe5g9Vey2i_pg83vE6n4652Rqk4Hbh4cbzXGh2F1IgKo2yYcZQr6w3tFkndMeyo0Yp75OvBkEfp4Kl8iBX4cq7Sro3uURSoafLQlL_PqSl_TlEQMPQtP3957rMVVYYW4ys7nqXktRJw-PBT4IihzRH2TLlc1WCykGDIHAXhMLoQa12lYkjibQlEQb1CnYmMiib0HhtFfTVNEGiGe1ejNDYes5iS9Fu6a3PyiDzfpBaxH8q0SqgH1uIYzxwNdl0xWO5CrbmjjNWE7DG4hlB2kDMrUgzfYoYjlNKzGrpfIKde_NZoXo76B3plltx3K5MzIwkauI3tSYQuDg0XGXT-qR8lGn6R50prj4mJh0vh2EfB0eEgTFagfJHSpi2TI-FulO286pX9vroq_sbH4D1LiKd1-nsCSZWjE0FYnSQTiDo0gusCq6-KDhvEGni6cc19e6uVlqSZaFH3UajiDpDwq4Nr3iZsyN6KGynJPa63BA0BmaA409tioe2uCaDqMu3Xszey4U3W1FsFs2KKOp41pIp3BDlycgpmsfZUua42FiELZv5bq53oAFSVjT3xTrkvg5vdiV9tpEMva-COQXoJ_Ey6PdBPL2kPhAb0PXQ0c8wBweYywYjHEnIGfKgECxRAQrTc-rxQND3nQKXE0Ml0W9-XGPXWfidOtST-QY9xg6vKcS1QhfqZHmuQVFbpS7l4dfEqx1Mz6qI1dYdmwQdvd9NN7B9-Yrta6qIzDCEquTAWcatWhIbEL1CKc5sQ3Obq6BgZ1qTORrQtB6qLpaxjBSWxGoQ5nk6q1OmLpVhPNqb0hiAqq91u81vGI1LP9W-2timoSQFpr-QzcjVNOseBvmD6pzwAtBYLK12W1CcMwfK3mgMhHbT-M27IbyH16BzD7aiaerPo2VqSsdKU8Hec3BU-D07F6IMGpSKv6IMhz3GRU3CNGyIXiG_HFBtOugM3UOywI7_CWE6OOwcAj_EaLb0gkQU9_AnrRQdxDgksAkYiiVOBxJgSqyiFTb-xuTdI3jwDtO3PbdNme0gJ23RvU-Uel4rR2HIETTZBnD8rOMTK6eoVRe5uBMKPfuXpB_179hi6H6sU55W4-y3oATPWVRyq25d80ge-TzjSJ8ZrOfZX4CmcrQ38ReO9g9OgdhF77V2qbeCTcNRm_KDl65cHLtWvui_PK-CxN7Wl-4XiXKvspl2mRzP8zeRNbM9Ms=w1920-h915)](https://www.linkedin.com/in/ayush-baliyan/)
+[![Banner](https://lh3.googleusercontent.com/fife/APg5EOZTXTyVbQM7TlzPtAdczVdblyLMcsOXmw_FLieWocC7bRaulbpjDORR-zDvofTrIVYNfxYTfpn13vnlMRIGk-VV38fQEg66_sLIKsMxOuUEdQSiJNvcl8-nugUYd2-sErXSFlv2bQL8bQeaK63K1LrBXych0L_IyzX_vQlOEWqCGFF-5DWMDdTL3r877S0mRZHnYaK9XtBQtB9D0jeNfdakD-Ay58WHHQZRr7BrPquZtmejB-m6TP8kE_rCkX5snUsV694x0sTN4vLVX_knQVZgx-BM_yyg2Goookl3kIZhdNSNpjbQEzrZqRpPiFSEhjmRdwbLaPItpSEmWsVSErOix1YaOw47CE9hdnLBOvXtcdIa40EIKfso3p0ASzh2kWGPYJ23QtMgwKwZYKjkKrYrVmaF1ts8amktxfbsFpzzxP7glH6ys3liq0-ZSLOO1GeKjgeKO_AjtXvDXYHDLIuORbvd1M5J4kZ8YcGwnoKvR4HsjV6Pl9sQNf7AAGiywwKHX0LDcbwS9lLxZ6RZVSIJMqcE2zN_QMWdU0QUd79GpPY-kJKQ_Se4FMmKv3E0hvIHh0KWuyH20i2j5CEFLEQ7DCuwsFPyZmJLZAQ5lgZjGn0N5FLVpx49P65MPcFEbwiP57HVbT3IrHqL4V32ii82mEkGFrlWb7W0E9wR-F5aXTyIJ9FH0dJVGGXQKev9TN0d9SOLUumqBKaF-_EUeUTAzgxMD-T86i80wiEGKy7VRq1xp9pnNPSArUt-QE02xRRVG-E2VmCVB1y4DdUAQVyNiqgCgHQ3WmEx2cRQqGz5MoU2p_zF9vJrKcuFDzrG0uQ5o7oeY_ECnoNhG9YTbLdrNq4Fx52ShM4Y6wzpDElJIE1BmcFmHv2zPpHpqeVlZYVmQKpcdN2-tS2mIPiQhxXWH7jawUR5ePk94r4EYNnx8OKUDtGs5ikZXEAkNqMNkANx5JXbzA8wVQlv5bfs-qUlOaYeEIJlQrXizwJ867mBQsGQxqj8u9n7MXc082A_InGoI1mHgDRMxLjUc3gOxDZRsZ12lOkfKik4PsUMsTmB05yoOfo80g4EmI9PD06j0blTqU8tGJTxb3AorhgHoBDxqxGdhQe8UHg_bRdf6McYPuUcSYdgsV7z6bwORA3uAPrSxSZ3vQwL0zHFHme6UTrHIk5N4UVdhTUnY4Q9hY_ILKHLwKqowlWHzVBbetAw5HBdgT9wjF_YPJND64dDG2SjE25-dsdDV_qPhSlIOrchOSgmZEsT3qDC5sFNLraSFdu-qh-NFGItUSxCnOgIghIQu7W0MVLhuJUlaNs-ck4r9-jQAP6x1EWQlgzIRtNL4XKcRPBXBW3W4CuClL60fttm-0Qr0wbm4UcrnR0gVYINK4ku3OUVc_noZS07imGTuXiGV-EZZB6MzDq-ILW8jINkoyvzxbv8QMqoH4V-KaiUyjt4_kC19PNLh-P-xA0br-UJ8vyV0zPnR1etunKCqzMB-DDqf0Z3ZMRceEETSB9mtfvyvkjdck2L1g8Gr2D8nnui1Sjx9a8e6L7oY1nXZ738viNvpC_nRY1pqmUqec0=w1920-h955)](https://www.linkedin.com/in/ayush-baliyan/)
 <h1 align="center">Hi there👋, I Am <a href="https://ayush-baliyan-19.github.io/Portfolio">Ayush</a>!</h1>
-<!--
 <h3 align="center">A Developer from India</h3>
 <p align="center">"The strong don't win. The winners are the strong ones"</p>
--->
 
 ```js
 const name = 'Ayush';
@@ -27,9 +25,37 @@ while(dev.isCoding())
 /> -->
 </p>
 <hr>
+<h3>Skills</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/MERN Stack-61DAFB?style=flat-square&logo=react&logoColor=white" alt="MERN Stack" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=ethereum&logoColor=white" alt="Web3.js" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=ethereum&logoColor=white" alt="Solidity" />
+</p>
+<br>
+<p align="center">
+  <img src="https://github.com/your-username/your-repository-name/raw/master/contributions.gif" alt="Code Eating My Contributions" />
+</p>
+<br>
+<h3>Favorite Song</h3>
+<p align="center">
+  <a href="https://open.spotify.com/track/xxxxxxxxxxxxxxx"> <!-- Replace with your Spotify song link -->
+    <img src="https://novatorem-two-sigma.vercel.app/api/spotify" alt="Now Playing" />
+  </a>
+</p>
+<hr>
 <h3>Contact Me!</h3>
-<p align="center" >
-  <a href="https://www.linkedin.com/in/ayush-baliyan"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://github.com/Ayush-Baliyan-19"><img src="https://img.shields.io/badge/Github-white?logo=github&logoColor=black&style=for-the-badge" /></a>
-  <a href="https://www.instagram.com/ayush__baliyan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayush-baliyan">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Ayush-Baliyan-19">
+    <img src="https://img.shields.io/badge/Github-white?logo=github&logoColor=black&style=for-the-badge" alt="GitHub" />
+  </a>
+  <a href="https://www.instagram.com/ayush__baliyan">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
