@@ -136,9 +136,13 @@ while(dev.isCoding())
   <img src="https://github.com/your-username/your-repository-name/raw/master/contributions.gif" alt="Code Eating My Contributions" />
 </p>
 <hr>
+  <h1 align="center">
+    Snake Eating Away My Contributions
+    <img src="/webp/Shock.webp" width="40px">
+  </h1>
 
   ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
-  
+
 <hr>
 
 <div align="center">
