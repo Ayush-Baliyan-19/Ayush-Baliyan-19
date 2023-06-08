@@ -1,5 +1,9 @@
 [![Banner](https://lh3.googleusercontent.com/fife/APg5EOZTXTyVbQM7TlzPtAdczVdblyLMcsOXmw_FLieWocC7bRaulbpjDORR-zDvofTrIVYNfxYTfpn13vnlMRIGk-VV38fQEg66_sLIKsMxOuUEdQSiJNvcl8-nugUYd2-sErXSFlv2bQL8bQeaK63K1LrBXych0L_IyzX_vQlOEWqCGFF-5DWMDdTL3r877S0mRZHnYaK9XtBQtB9D0jeNfdakD-Ay58WHHQZRr7BrPquZtmejB-m6TP8kE_rCkX5snUsV694x0sTN4vLVX_knQVZgx-BM_yyg2Goookl3kIZhdNSNpjbQEzrZqRpPiFSEhjmRdwbLaPItpSEmWsVSErOix1YaOw47CE9hdnLBOvXtcdIa40EIKfso3p0ASzh2kWGPYJ23QtMgwKwZYKjkKrYrVmaF1ts8amktxfbsFpzzxP7glH6ys3liq0-ZSLOO1GeKjgeKO_AjtXvDXYHDLIuORbvd1M5J4kZ8YcGwnoKvR4HsjV6Pl9sQNf7AAGiywwKHX0LDcbwS9lLxZ6RZVSIJMqcE2zN_QMWdU0QUd79GpPY-kJKQ_Se4FMmKv3E0hvIHh0KWuyH20i2j5CEFLEQ7DCuwsFPyZmJLZAQ5lgZjGn0N5FLVpx49P65MPcFEbwiP57HVbT3IrHqL4V32ii82mEkGFrlWb7W0E9wR-F5aXTyIJ9FH0dJVGGXQKev9TN0d9SOLUumqBKaF-_EUeUTAzgxMD-T86i80wiEGKy7VRq1xp9pnNPSArUt-QE02xRRVG-E2VmCVB1y4DdUAQVyNiqgCgHQ3WmEx2cRQqGz5MoU2p_zF9vJrKcuFDzrG0uQ5o7oeY_ECnoNhG9YTbLdrNq4Fx52ShM4Y6wzpDElJIE1BmcFmHv2zPpHpqeVlZYVmQKpcdN2-tS2mIPiQhxXWH7jawUR5ePk94r4EYNnx8OKUDtGs5ikZXEAkNqMNkANx5JXbzA8wVQlv5bfs-qUlOaYeEIJlQrXizwJ867mBQsGQxqj8u9n7MXc082A_InGoI1mHgDRMxLjUc3gOxDZRsZ12lOkfKik4PsUMsTmB05yoOfo80g4EmI9PD06j0blTqU8tGJTxb3AorhgHoBDxqxGdhQe8UHg_bRdf6McYPuUcSYdgsV7z6bwORA3uAPrSxSZ3vQwL0zHFHme6UTrHIk5N4UVdhTUnY4Q9hY_ILKHLwKqowlWHzVBbetAw5HBdgT9wjF_YPJND64dDG2SjE25-dsdDV_qPhSlIOrchOSgmZEsT3qDC5sFNLraSFdu-qh-NFGItUSxCnOgIghIQu7W0MVLhuJUlaNs-ck4r9-jQAP6x1EWQlgzIRtNL4XKcRPBXBW3W4CuClL60fttm-0Qr0wbm4UcrnR0gVYINK4ku3OUVc_noZS07imGTuXiGV-EZZB6MzDq-ILW8jINkoyvzxbv8QMqoH4V-KaiUyjt4_kC19PNLh-P-xA0br-UJ8vyV0zPnR1etunKCqzMB-DDqf0Z3ZMRceEETSB9mtfvyvkjdck2L1g8Gr2D8nnui1Sjx9a8e6L7oY1nXZ738viNvpC_nRY1pqmUqec0=w1920-h955)](https://www.linkedin.com/in/ayush-baliyan/)
-<h1 align="center">Hi there👋, I Am <a href="https://ayush-baliyan-19.github.io/Portfolio">Ayush</a>!</h1>
+<h1 align="center">
+  <img src="GIF/Earth.gif" width="24px">
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  <img src="GIF/Hi.gif" width="40px" />
+</h1>
 <h3 align="center">A Developer from India</h3>
 <p align="center">"The strong don't win. The winners are the strong ones"</p>
 
@@ -22,29 +26,114 @@ while(dev.isCoding())
 <p align="center">
 <img width="48%"
    src="https://github-readme-stats.vercel.app/api?username=ayush-baliyan-19&show_icons=true&theme=tokyonight" 
-/> -->
-</p>
-<hr>
-<h3>Skills</h3>
+/>
+</p>-->
+<hr> 
+
+<h3 align="center">Languages</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/MERN Stack-61DAFB?style=flat-square&logo=react&logoColor=white" alt="MERN Stack" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=ethereum&logoColor=white" alt="Web3.js" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=ethereum&logoColor=white" alt="Solidity" />
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
+      alt="c"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"
+      alt="c++"/>
+  </a>
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" 
+      alt="python"/> 
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
+      alt="html5"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
+      alt="css3"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
+      alt="javascript"/> 
+  </a>
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+      <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
+      alt="bootstrap"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
+      alt="Tailwind"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
+      alt="react"/> 
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router"/> 
+  </a>
+  <a href="https://jquery.com/" target="_blank">
+    <img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/> 
+  </a> 
+ 
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <a href="https://nodejs.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
+      alt="nodejs"/> 
+  </a>
+  <a href="https://expressjs.com" target="_blank">
+    <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
+      alt="express" />
+  <a href="https://expressjs.com" target="_blank">
+    <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"
+      alt="JWT" />
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <a href="" target="_blank"> 
+    <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"
+      alt="Firebase"/> 
+  </a>
+  <a href="" target="_blank"> 
+    <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white"
+      alt="MySQL"/> 
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
+      alt="mongodb"/> 
+  </a> 
+</p>
+
+<h3 align="center">Cloud & Hosting:</h3>
+<p align="center">
+
+  <a href="" target="_blank">
+    <img  src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="azure"/> 
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
+  </a>
+  <a href="https://netlify.com/" target="_blank">
+    <img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=black" alt="firebase"/>
+  </a>
+  <a href="https://heroku.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
+      alt="heroku"/> 
+  </a>
+    <a href="https://github.com/MR-DHRUV" target="_blank">
+    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a> 
 </p>
 <br>
 <p align="center">
   <img src="https://github.com/your-username/your-repository-name/raw/master/contributions.gif" alt="Code Eating My Contributions" />
-</p>
-<br>
-<h3>Favorite Song</h3>
-<p align="center">
-  <a href="https://open.spotify.com/track/xxxxxxxxxxxxxxx"> <!-- Replace with your Spotify song link -->
-    <img src="https://novatorem-two-sigma.vercel.app/api/spotify" alt="Now Playing" />
-  </a>
 </p>
 <hr>
 <h3>Contact Me!</h3>
