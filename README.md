@@ -5,7 +5,7 @@
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
 <h3 align="center">A Developer from India</h3>
-<p align="center">"The strong don't win. The winners are the strong ones"</p>
+<p align="center">"The strong don't win. The winners are the strong"</p>
 
 ```js
 const name = 'Ayush';
